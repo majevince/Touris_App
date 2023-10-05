@@ -1,16 +1,17 @@
 import React from 'react';
 // import './App.css';
+import DummySearchBar from './DummySearchBar';
 import TopDestinations from './TopDestinations';
 import Suggestions from './Suggestions';
 import Categories from './Categories';
-import DummySearchBar from './DummySearchBar';
 import IntakeForm from './IntakeForm';
+
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Welcome to Our Intake Page</h1>
+        <h1>Welcome to Our App Page</h1>
       </header>
       <main>
         <div className="container">
