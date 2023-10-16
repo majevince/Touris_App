@@ -1,4 +1,5 @@
-.logo {
+.App {
     height: 150px;
     cursor: pointer;
+    background-color: darkslategray;
   }
